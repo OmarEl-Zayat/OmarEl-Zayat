@@ -29,7 +29,7 @@ Git, GitHub, SPSS
 | Project | Description | Tools |
 |---|---|---|
 | [Heart Disease Risk Prediction](https://github.com/omarhosny2023-glitch/heart-disease-risk-analysis) | ML classification pipeline predicting heart disease from clinical data, optimized for recall | Python, Scikit-learn |
-| [Displaced Population Data Analysis](https://github.com/omarhosny2023-glitch/displaced-population-analysis) | Data cleaning & feature engineering on a humanitarian housing dataset | Python, Pandas |
+| [Population-Camp-Analysis](https://github.com/omarhosny2023-glitch/displaced-population-analysis) | Data cleaning & feature engineering on a humanitarian housing dataset | Python, Pandas |
 | [Housing Price Regression](https://github.com/omarhosny2023-glitch/housing-price-regression) | Multiple regression with full assumption testing and correction | R |
 | [Data Science Salary Analysis](https://github.com/omarhosny2023-glitch/salary-analysis) | Econometric analysis of salary drivers with interaction effects | R |
 | [Profitability Determinants Analysis](https://github.com/omarhosny2023-glitch/profitability-analysis) | Statistical analysis identifying profit drivers for a commercial company | SPSS |
