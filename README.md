@@ -1,5 +1,5 @@
 ### Hi, I'm Omar 👋
-**Junior Data Analyst | Statistics Student**
+** Data Analyst | Statistics Student**
 
 Statistics student at the Faculty of Economics and Political Science (FEPS), focused on data analysis and statistics. I work on turning raw datasets into clear, evidence-based findings using Python, R, and SPSS.
 
